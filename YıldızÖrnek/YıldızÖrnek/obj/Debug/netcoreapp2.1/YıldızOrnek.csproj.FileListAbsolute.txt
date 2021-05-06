@@ -1,0 +1,10 @@
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\bin\Debug\netcoreapp2.1\YıldızOrnek.deps.json
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\bin\Debug\netcoreapp2.1\YıldızOrnek.runtimeconfig.json
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\bin\Debug\netcoreapp2.1\YıldızOrnek.runtimeconfig.dev.json
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\bin\Debug\netcoreapp2.1\YıldızOrnek.dll
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\bin\Debug\netcoreapp2.1\YıldızOrnek.pdb
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\obj\Debug\netcoreapp2.1\YıldızOrnek.csprojAssemblyReference.cache
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\obj\Debug\netcoreapp2.1\YıldızOrnek.AssemblyInfoInputs.cache
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\obj\Debug\netcoreapp2.1\YıldızOrnek.AssemblyInfo.cs
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\obj\Debug\netcoreapp2.1\YıldızOrnek.dll
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\obj\Debug\netcoreapp2.1\YıldızOrnek.pdb

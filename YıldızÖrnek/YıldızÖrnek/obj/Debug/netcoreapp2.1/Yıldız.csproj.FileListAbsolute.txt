@@ -1,0 +1,10 @@
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\bin\Debug\netcoreapp2.1\Yıldız.deps.json
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\bin\Debug\netcoreapp2.1\Yıldız.runtimeconfig.json
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\bin\Debug\netcoreapp2.1\Yıldız.runtimeconfig.dev.json
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\bin\Debug\netcoreapp2.1\Yıldız.dll
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\bin\Debug\netcoreapp2.1\Yıldız.pdb
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\obj\Debug\netcoreapp2.1\Yıldız.csprojAssemblyReference.cache
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\obj\Debug\netcoreapp2.1\Yıldız.AssemblyInfoInputs.cache
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\obj\Debug\netcoreapp2.1\Yıldız.AssemblyInfo.cs
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\obj\Debug\netcoreapp2.1\Yıldız.dll
+C:\Users\Nur\Desktop\C#\YıldızÖrnek\YıldızÖrnek\obj\Debug\netcoreapp2.1\Yıldız.pdb
